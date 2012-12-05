@@ -12,7 +12,7 @@ namespace TestConsoleApp
             Console.WriteLine("Hello World!");
             Console.WriteLine("New integration level!");
             Console.WriteLine("Auto hook test!");
-            BUG STRING!
+            //BUG STRING!
             Console.Read();
         }
     }
