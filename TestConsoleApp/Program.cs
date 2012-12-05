@@ -10,6 +10,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+			Console.WriteLine("Its new branch!");
             Console.Read();
         }
     }
